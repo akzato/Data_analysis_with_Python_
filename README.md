@@ -1,5 +1,5 @@
 # Data_analysis_with_Python_VsCode
-Analyzed Fesitival sales data to improve customer experience and sales using Python in Jupiter Notebook.
+Analyzed Festival sales data to improve customer experience and sales using Python in Jupiter Notebook.
 
 ![image](https://github.com/akzato/Data_analysis_with_Python_/assets/135569805/b67736e0-ec18-4b82-931f-d12485d49caf)
 
